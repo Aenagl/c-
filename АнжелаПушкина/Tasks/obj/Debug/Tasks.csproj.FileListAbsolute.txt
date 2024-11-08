@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\bin\Debug\Tasks.exe
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\bin\Debug\Tasks.pdb
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\obj\Debug\Tasks.exe
+C:\Users\User\source\repos\АнжелаПушкина\Tasks\obj\Debug\Tasks.pdb
